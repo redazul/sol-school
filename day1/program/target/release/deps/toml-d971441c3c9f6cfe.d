@@ -1,0 +1,15 @@
+/home/jc/solana/d100/target/release/deps/toml-d971441c3c9f6cfe.rmeta: /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/lib.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/map.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/value.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/datetime.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/ser.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/de.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/tokens.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/macros.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/spanned.rs
+
+/home/jc/solana/d100/target/release/deps/libtoml-d971441c3c9f6cfe.rlib: /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/lib.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/map.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/value.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/datetime.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/ser.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/de.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/tokens.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/macros.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/spanned.rs
+
+/home/jc/solana/d100/target/release/deps/toml-d971441c3c9f6cfe.d: /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/lib.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/map.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/value.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/datetime.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/ser.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/de.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/tokens.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/macros.rs /home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/spanned.rs
+
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/lib.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/map.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/value.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/datetime.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/ser.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/de.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/tokens.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/macros.rs:
+/home/jc/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.8/src/spanned.rs:
