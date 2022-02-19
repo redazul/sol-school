@@ -1,0 +1,1 @@
+/home/jc/solana/sol-school/day2/cross-program-invocation/target/bpfel-unknown-unknown/release/spl_example_cross_program_invocation.so: /home/jc/solana/sol-school/day2/cross-program-invocation/src/entrypoint.rs /home/jc/solana/sol-school/day2/cross-program-invocation/src/lib.rs /home/jc/solana/sol-school/day2/cross-program-invocation/src/processor.rs
